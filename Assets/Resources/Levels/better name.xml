@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<WorldDATA xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorldObjects>
+    <ObjectVariables>
+      <objectname>PlayerSpawnPoint(0)</objectname>
+      <objecttype>PlayerSpawnPoint</objecttype>
+      <positionX>0</positionX>
+      <positionY>0</positionY>
+      <positionZ>0</positionZ>
+      <rotationX>-0</rotationX>
+      <rotationY>0</rotationY>
+      <rotationZ>0</rotationZ>
+      <scaleX>1</scaleX>
+      <scaleY>1</scaleY>
+      <scaleZ>1</scaleZ>
+      <PhysicsIsDynamic>false</PhysicsIsDynamic>
+      <PhysicsIsStatic>false</PhysicsIsStatic>
+      <PlayerInteractionIsPickupable>false</PlayerInteractionIsPickupable>
+      <PlayerInteractionIsInteractable>false</PlayerInteractionIsInteractable>
+      <RigidBodyMass>0</RigidBodyMass>
+      <ColorR>255</ColorR>
+      <ColorG>0</ColorG>
+      <ColorB>255</ColorB>
+      <ColorA>255</ColorA>
+      <TexturePath />
+      <ShaderName>Unlit/Color</ShaderName>
+      <TextureScaleX>1</TextureScaleX>
+      <TextureScaleY>1</TextureScaleY>
+    </ObjectVariables>
+  </WorldObjects>
+</WorldDATA>
